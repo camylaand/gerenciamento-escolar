@@ -76,12 +76,6 @@ Armazena notas dos alunos:
 
 ---
 
-## Inserção de Dados
-Após criar as tabelas, os dados foram importados para popular todas as tabelas, incluindo informações de alunos, professores, disciplinas, turmas e notas.
-
----
-
-## Consultas Realizadas
 
 1. **Verificar se os dados foram importados corretamente**:
 ```sql

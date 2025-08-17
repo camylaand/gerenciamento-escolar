@@ -76,9 +76,3 @@ Armazena notas dos alunos:
 
 ---
 
-
-1. **Verificar se os dados foram importados corretamente**:
-```sql
-SELECT * FROM Alunos;
-SELECT * FROM Professores;
-SELECT * FROM Disciplinas;
